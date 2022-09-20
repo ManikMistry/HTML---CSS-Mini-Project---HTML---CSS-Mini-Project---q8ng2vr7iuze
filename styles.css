@@ -9,21 +9,21 @@ html,body {
 }
 
 .pimg1 {
-    background-image: url(https://img.freepik.com/free-vector/hand-drawn-ipl-cricket-illustration_23-2149213601.jpg?w=1060&t=st=1663486215~exp=1663486815~hmac=3df543d5af321d89bfd5b526823593ca490fc5de3d96fa7c3421aa1a914b1b77);
+    background-image: url(img3.jpg);
     min-height: 100%;
 }
 
 .pimg2 {
-    background-image: url(https://img.freepik.com/free-photo/cricket-player-holding-leather-ball_53876-63344.jpg?w=1060&t=st=1663486687~exp=1663487287~hmac=03e77ac705a2be764ddf3b38764373d8a78f6db5fd48595729d8bb0d85365df8);
+    background-image: url(ima1.jpg);
     min-height: 400px;
 }
 
 .pimg3 {
-    background-image: url(https://media.gettyimages.com/photos/general-view-as-indian-fans-in-the-crowd-celebrate-as-a-pakistan-picture-id463485152);
+    background-image: url(img4.jpeg);
     min-height: 400px;
 }
 .pimg4{
-    background-image: url(https://img.freepik.com/premium-vector/t2o-cricket-championship-league-concept-with-cricket-bat-ball-stump-winning-cup-trophy-poster-banner-pink-stadium-background_384372-364.jpg?w=1060);
+    background-image: url(imag2.jpg);
     min-height: 400px;
 }
 
