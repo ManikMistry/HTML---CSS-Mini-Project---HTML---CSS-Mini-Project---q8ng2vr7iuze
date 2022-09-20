@@ -1,1 +1,68 @@
+html,body {
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: grey;
+}
 
+.pimg1 {
+    background-image: url(https://img.freepik.com/free-vector/hand-drawn-ipl-cricket-illustration_23-2149213601.jpg?w=1060&t=st=1663486215~exp=1663486815~hmac=3df543d5af321d89bfd5b526823593ca490fc5de3d96fa7c3421aa1a914b1b77);
+    min-height: 100%;
+}
+
+.pimg2 {
+    background-image: url(https://img.freepik.com/free-photo/cricket-player-holding-leather-ball_53876-63344.jpg?w=1060&t=st=1663486687~exp=1663487287~hmac=03e77ac705a2be764ddf3b38764373d8a78f6db5fd48595729d8bb0d85365df8);
+    min-height: 400px;
+}
+
+.pimg3 {
+    background-image: url(https://media.gettyimages.com/photos/general-view-as-indian-fans-in-the-crowd-celebrate-as-a-pakistan-picture-id463485152);
+    min-height: 400px;
+}
+.pimg4{
+    background-image: url(https://img.freepik.com/premium-vector/t2o-cricket-championship-league-concept-with-cricket-bat-ball-stump-winning-cup-trophy-poster-banner-pink-stadium-background_384372-364.jpg?w=1060);
+    min-height: 400px;
+}
+
+.pimg1 , .pimg2 , .pimg3 ,.pimg4 {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.ptext {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: rgb(46, 14, 14);
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+.textBg {
+    background: rgb(0, 0, 0);
+    color: white;
+    padding: 20px;
+}
+
+.section {
+    padding: 50px 80px;
+    text-align: center;
+}
+
+.section-light {
+    background-color: #f4f4f4;
+    color: gray;
+}
+
+.section-dark {
+    background-color: #282e34;
+    color: white;
+}
